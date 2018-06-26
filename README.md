@@ -28,4 +28,4 @@ Deployed
 
 The app is deployed here at Heroku (also using MongoLab).
 
-https://glacial-peak-79446.herokuapp.com/
+https://mahidharreddy.herokuapp.com/
